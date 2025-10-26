@@ -332,5 +332,3 @@ Created with ❤️ by **Muhammad Kashif**
 ---
 
 
-So you can add that alongside this README in your GitHub repo?
-```
